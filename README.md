@@ -1,6 +1,7 @@
 # travel2
 
-> A Vue.js project
+> A Vue.js project that run in android.
+here is like a travl app
 
 ## Build Setup
 
